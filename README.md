@@ -62,5 +62,5 @@ Android SDK
 
 📲 Изтеглете приложението за телефон
 
-Можете да свалите APK файла от [тук](https://github.com/KamelJalab/app-recepti-android/app-recepti.apk).
+Можете да свалите APK файла от [тук](https://github.com/KamelJalab/app-recepti-android/blob/main/app-recepti.apk).
 
