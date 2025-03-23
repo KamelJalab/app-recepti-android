@@ -45,32 +45,33 @@ Android SDK
 
 ## 📸 Снимки на приложението
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <figure style="text-align: center;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+  <div style="text-align: center; width: 220px;">
     <img src="Splash_Screen.jpg" alt="Зареждане на приложението" width="220"/>
-    <figcaption>Зареждане на приложението</figcaption>
-  </figure>
-  <figure style="text-align: center;">
+    <p style="font-size: 14px; color: #555; margin-top: 5px;">Зареждане на приложението</p>
+  </div>
+  <div style="text-align: center; width: 220px;">
     <img src="Homepage.jpg" alt="Начало на приложението" width="220"/>
-    <figcaption>Начало на приложението</figcaption>
-  </figure>
-  <figure style="text-align: center;">
+    <p style="font-size: 14px; color: #555; margin-top: 5px;">Начало на приложението</p>
+  </div>
+  <div style="text-align: center; width: 220px;">
     <img src="Category.jpg" alt="Категория" width="220"/>
-    <figcaption>Категория</figcaption>
-  </figure>
-  <figure style="text-align: center;">
+    <p style="font-size: 14px; color: #555; margin-top: 5px;">Категория</p>
+  </div>
+  <div style="text-align: center; width: 220px;">
     <img src="productview.jpg" alt="Преглед на рецепта" width="220"/>
-    <figcaption>Преглед на рецепта</figcaption>
-  </figure>
-  <figure style="text-align: center;">
+    <p style="font-size: 14px; color: #555; margin-top: 5px;">Преглед на рецепта</p>
+  </div>
+  <div style="text-align: center; width: 220px;">
     <img src="steps_resipe.jpg" alt="Стъпки на приготвяне" width="220"/>
-    <figcaption>Стъпки на приготвяне</figcaption>
-  </figure>
-  <figure style="text-align: center;">
+    <p style="font-size: 14px; color: #555; margin-top: 5px;">Стъпки на приготване</p>
+  </div>
+  <div style="text-align: center; width: 220px;">
     <img src="Search.jpg" alt="Търсене" width="220"/>
-    <figcaption>Търсене</figcaption>
-  </figure>
+    <p style="font-size: 14px; color: #555; margin-top: 5px;">Търсене</p>
+  </div>
 </div>
+
 
 
 ## 🌍 Поддръжка на езици
