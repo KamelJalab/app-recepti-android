@@ -45,38 +45,22 @@ Android SDK
 
 ## 📸 Снимки на приложението
 
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-  <div style="text-align: center; width: 220px;">
-    <img src="Splash_Screen.jpg" alt="Зареждане на приложението" width="220"/>
-    <p style="font-size: 14px; color: #555; margin-top: 5px;">Зареждане на приложението</p>
-  </div>
-  <div style="text-align: center; width: 220px;">
-    <img src="Homepage.jpg" alt="Начало на приложението" width="220"/>
-    <p style="font-size: 14px; color: #555; margin-top: 5px;">Начало на приложението</p>
-  </div>
-  <div style="text-align: center; width: 220px;">
-    <img src="Category.jpg" alt="Категория" width="220"/>
-    <p style="font-size: 14px; color: #555; margin-top: 5px;">Категория</p>
-  </div>
-  <div style="text-align: center; width: 220px;">
-    <img src="productview.jpg" alt="Преглед на рецепта" width="220"/>
-    <p style="font-size: 14px; color: #555; margin-top: 5px;">Преглед на рецепта</p>
-  </div>
-  <div style="text-align: center; width: 220px;">
-    <img src="steps_resipe.jpg" alt="Стъпки на приготвяне" width="220"/>
-    <p style="font-size: 14px; color: #555; margin-top: 5px;">Стъпки на приготвяне</p>
-  </div>
-  <div style="text-align: center; width: 220px;">
-    <img src="Search.jpg" alt="Търсене" width="220"/>
-    <p style="font-size: 14px; color: #555; margin-top: 5px;">Търсене</p>
-  </div>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="Splash_Screen.jpg" alt="Зареждане на приложението" width="220"/>
+  <img src="Homepage.jpg" alt="Начало на приложението" width="220"/>
+  <img src="Category.jpg" alt="Категоря" width="220"/>
+  <img src="productview.jpg" alt="Преглед на рецепта" width="220"/>
+  <img src="steps_resipe.jpg" alt="Стъпки на приготвяне" width="220"/>
+  <img src="Search.jpg" alt="Търсене" width="220"/>
 </div>
-
-
 
 ## 🌍 Поддръжка на езици
 
 Приложението в момента поддържа следните езици:
 - Български
 - Английски (планирано за бъдещите версии)
+
+📲 Изтеглете приложението за телефон
+
+Можете да свалите APK файла от [тук](https://github.com/KamelJalab/app-recepti-android/app-recepti.apk).
 
