@@ -29,5 +29,5 @@ Java
 
 Android SDK
 
+<img src="Homepage.jpg" alt="Начало на приложението" width="300"/>
 
-![Начало на приложението](Homepage.jpg)
