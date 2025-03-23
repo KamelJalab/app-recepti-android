@@ -45,7 +45,7 @@ Android SDK
 
 ## 📸 Снимки на приложението
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
   <div style="text-align: center; width: 220px;">
     <img src="Splash_Screen.jpg" alt="Зареждане на приложението" width="220"/>
     <p style="font-size: 14px; color: #555; margin-top: 5px;">Зареждане на приложението</p>
@@ -64,13 +64,14 @@ Android SDK
   </div>
   <div style="text-align: center; width: 220px;">
     <img src="steps_resipe.jpg" alt="Стъпки на приготвяне" width="220"/>
-    <p style="font-size: 14px; color: #555; margin-top: 5px;">Стъпки на приготване</p>
+    <p style="font-size: 14px; color: #555; margin-top: 5px;">Стъпки на приготвяне</p>
   </div>
   <div style="text-align: center; width: 220px;">
     <img src="Search.jpg" alt="Търсене" width="220"/>
     <p style="font-size: 14px; color: #555; margin-top: 5px;">Търсене</p>
   </div>
 </div>
+
 
 
 
