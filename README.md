@@ -46,13 +46,32 @@ Android SDK
 ## 📸 Снимки на приложението
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="Splash_Screen.jpg" alt="Зареждане на приложението" width="220"/>
-  <img src="Homepage.jpg" alt="Начало на приложението" width="220"/>
-  <img src="Category.jpg" alt="Категоря" width="220"/>
-  <img src="productview.jpg" alt="Преглед на рецепта" width="220"/>
-  <img src="steps_resipe.jpg" alt="Стъпки на приготвяне" width="220"/>
-  <img src="Search.jpg" alt="Търсене" width="220"/>
+  <figure style="text-align: center;">
+    <img src="Splash_Screen.jpg" alt="Зареждане на приложението" width="220"/>
+    <figcaption>Зареждане на приложението</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="Homepage.jpg" alt="Начало на приложението" width="220"/>
+    <figcaption>Начало на приложението</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="Category.jpg" alt="Категория" width="220"/>
+    <figcaption>Категория</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="productview.jpg" alt="Преглед на рецепта" width="220"/>
+    <figcaption>Преглед на рецепта</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="steps_resipe.jpg" alt="Стъпки на приготвяне" width="220"/>
+    <figcaption>Стъпки на приготвяне</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="Search.jpg" alt="Търсене" width="220"/>
+    <figcaption>Търсене</figcaption>
+  </figure>
 </div>
+
 
 ## 🌍 Поддръжка на езици
 
